@@ -7,7 +7,7 @@
 
 To run the Smart Notes App locally, follow these steps:
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: git clone [https://github.com/saadelboukhali/SmartNotes.git]
 2. Open the index.html file in your preferred web browser.
 
 ## Usage
